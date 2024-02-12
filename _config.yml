@@ -3,5 +3,5 @@ name: Insight Alchemist
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: "Insight Alchemist"
-description: "Insight Alchemist we concerned with the transumation of raw data into actionable insights through the application of techniques from the data management, analytics and reporting domains."
+title: Insight Alchemist
+description: Insight Alchemist we concerned with the transumation of raw data into actionable insights through the application of techniques from the data management, analytics and reporting domains.
